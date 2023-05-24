@@ -1,2 +1,2 @@
-# next-starter
-next-starter
+# nextjs-starter
+nextjs-starter
